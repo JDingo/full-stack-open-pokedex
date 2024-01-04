@@ -1,3 +1,5 @@
+name: Periodic URL health check
+
 on:
   push:
     branches:
