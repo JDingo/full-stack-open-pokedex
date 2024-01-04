@@ -1,8 +1,9 @@
 name: Periodic URL health check
 
 on:
-  schedule:
-    - cron: "5/15 * * * *"
+  push:
+    branches:
+      - master
 
 jobs:
   url_health_check:
