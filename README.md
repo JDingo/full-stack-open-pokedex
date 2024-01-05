@@ -4,6 +4,9 @@ This repository is used for the CI/CD module of the Full stack open course
 
 Fork the repository to complete course exercises
 
+> Link to 11.20. repo: https://github.com/JDingo/full-stack-open-cicd-blogapp
+
+
 ## Commands
 
 Start by running `npm install` inside the project folder
